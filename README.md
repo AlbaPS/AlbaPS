@@ -3,7 +3,7 @@
 Este espacio funciona como mi currículum técnico y portfolio, donde recopilo prácticas, proyectos, apuntes y esquemas relacionados con la ciberseguridad.
 
 ---
-🧑‍💻 **Sobre mi**  
+## 🧑‍💻 Sobre mi 
 
 
 Desde pequeña me ha fascinado aprender cómo funciona todo, ya fuera físico como el mecanismo de un reloj o lógico como el código de un programa.  
@@ -14,6 +14,7 @@ Mi objetivo es trabajar en un SOC, donde pueda fortalecer mis habilidades en mon
 ---
 
 ## 🎓 Formación
+
 **Cursos:** 
 
    ⚪ IFCT0109 Seguridad Informática - Grupo Aspasia (530h)
@@ -36,15 +37,22 @@ Mi objetivo es trabajar en un SOC, donde pueda fortalecer mis habilidades en mon
 ---
 
 ## ⚙️ Habilidades 
-- **Herramientas:** Wireshark, Volatility, Nessus,... 
-- **Lenguajes:** Python (Básico), Bash (Básico) , SQL (Básico), HTML y CSS (Básico)  
-- **Sistemas Operativos:** Windows, Android, Linux (Kali Linux, Ubuntu)
+🛠️ **Herramientas:** Wireshark, Volatility, Nessus,... 
+
+✏️ **Lenguajes:** Python (Básico), Bash (Básico) , SQL (Básico), HTML y CSS (Básico) 
+
+🧱 **Sistemas Operativos:** Windows, Android, Linux (Kali Linux, Ubuntu)
   
 
 ## 🧩 CTF
-- Blue Team Labs
-- Splunk Boss of the SOC
-- HackTheLogs
-- ThePWNLab
-- TheHackersLab
-- DockerLabs
+➜ Blue Team Labs
+
+➜ Splunk Boss of the SOC
+
+➜ HackTheLogs
+
+➜ ThePWNLab
+
+➜ TheHackersLab
+
+➜ DockerLabs
